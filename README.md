@@ -1,72 +1,82 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=600&lines=Mike+Joshua+Lopena;Embedded+Systems+%7C+Full-Stack+Dev+%7C+Digital+Artist" alt="Typing Header"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=45&pause=1000&color=22D3EE&center=true&vCenter=true&width=1000&height=80&lines=Hey%2C+I'm+Mike+Joshua+Lopena!;Software+Engineer+%7C+Embedded+Systems+%7C+Homelab+Enthusiast" alt="Typing Intro" />
 </h1>
 
-<div align="center">
-  <!-- SVG Logo Container -->
-  <svg width="400" height="120" viewBox="0 0 1200 400" xmlns="http://www.w3.org/2000/svg">
-    <!-- Your SVG paths here (simplified for GitHub rendering) -->
-    <path fill="none" stroke="#00f0ff" stroke-width="8" stroke-linecap="round" 
-          d="M100,200 C150,100 250,300 300,200" 
-          style="animation: draw 3s ease-in-out infinite"/>
-    <path fill="none" stroke="#7a00ff" stroke-width="8" stroke-linecap="round" 
-          d="M400,200 C450,100 550,300 600,200" 
-          style="animation: draw 3s ease-in-out infinite 0.5s"/>
-    <path fill="none" stroke="#00f0ff" stroke-width="8" stroke-linecap="round" 
-          d="M700,200 C750,100 850,300 900,200" 
-          style="animation: draw 3s ease-in-out infinite 1s"/>
-    
-    <style>
-      @keyframes draw {
-        0% { stroke-dasharray: 0, 1000; }
-        100% { stroke-dasharray: 1000, 0; }
-      }
-    </style>
-  </svg>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f2027,203a43,2c5364&height=200&section=header&text=Welcome+To+My+Tech+Universe&fontSize=45&fontAlign=middle&fontColor=ffffff&font=Space+Grotesk&animation=fadeIn" alt="Custom Banner"/>
+</p>
+
+<p align="center">
+  <b>Full-Stack Developer • Embedded Systems Engineer • Linux Specialist</b><br/>
+  <i>Bridging hardware and software with robust system architecture</i>
+</p>
 
 ---
 
-## 🚀 **Tech Stack**
+## 🛠️ **Technical Expertise**
 
 ### **🧠 Core Languages**
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### **🌐 Web Development**
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
-### **🖥️ Systems & DevOps**
+### **🗃️ Databases & Servers**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+### **🖥️ Operating Systems**
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Slackware](https://img.shields.io/badge/Slackware-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### **⚡ Embedded & IoT**
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![RaspberryPi](https://img.shields.io/badge/RPi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+
+### **🏠 Homelab Stack**
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=for-the-badge&logo=truenas&logoColor=white)
+![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white)
+![Home Assistant](https://img.shields.io/badge/Home_Assistant-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white)
+![Jellyfin](https://img.shields.io/badge/Jellyfin-00A4DC?style=for-the-badge&logo=jellyfin&logoColor=white)
 
 ---
 
-## **📊 GitHub Stats**
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MikeJoshuaLopena4&show_icons=true&theme=nightowl&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeJoshuaLopena4&layout=compact&theme=nightowl&hide_border=true"/>
-</div>
+## **💼 Professional Focus**
+- **Embedded Systems Development** (C/C++, ESP32, Arduino)
+- **Full-Stack Web Solutions** (React, Node.js, PHP)
+- **Linux System Administration** (Debian, Slackware, Ubuntu)
+- **Homelab Virtualization** (Proxmox, TrueNAS, Docker)
+- **IoT & Automation Projects** (Home Assistant, Raspberry Pi)
 
 ---
 
-## **🌐 Connect**
+## **📫 Let's Connect**
 <p align="center">
   <a href="https://www.linkedin.com/in/mikejoshualopena44/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <a href="https://github.com/MikeJoshuaLopena4">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
 </p>
