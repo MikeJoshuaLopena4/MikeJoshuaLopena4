@@ -5,12 +5,6 @@
 
 Innovative technologist bridging software development, embedded systems, and digital creativity. Passionate about building robust systems and elegant solutions.
 
-```mermaid
-graph LR
-    A[Code] --> B[Systems]
-    B --> C[Art]
-    C --> A
-
 🖥️ Tech Stack
 🏗️ Development
 https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black
