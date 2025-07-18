@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=45&pause=1000&color=22D3EE&center=true&vCenter=true&width=1000&height=80&lines=Hey%2C+I'm+Mike+Joshua+Lopena!;Software+Engineer!;Embedded+Systems!;Homelab+Enthusiast" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=45&pause=1000&color=22D3EE&center=true&vCenter=true&width=1000&height=80&lines=Hey%2C+I'm+Mike+Joshua+Lopena!;Software+Engineer!;Embedded+Systems+Engineer!;Homelab+Enthusiast!" alt="Typing Intro" />
 </h1>
 
 <p align="center">
